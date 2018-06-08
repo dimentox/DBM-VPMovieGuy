@@ -1,0 +1,17 @@
+﻿## Interface: 70200
+## X-Min-Interface: 70200
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Movie Guy|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core,SharedMediaAdditionalSounds, LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
+## Author: Dimentox
+## Version: 7.3.7
+## OptionalDeps: 
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Movie Guy by Dimentox
+## X-DBM-Voice-ShortName: MovieGuy
+## X-DBM-Voice-Version: 6
+## X-DBM-Voice-HasCount: 1
+
+embeds.xml
+Core.lua
+DBM-VPMovieGuy.lua
