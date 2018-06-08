@@ -2,10 +2,10 @@
 ## X-Min-Interface: 70200
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Movie Guy|r
 ## DefaultState: enabled
-## RequiredDeps: DBM-Core,SharedMediaAdditionalSounds, LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
+## RequiredDeps: DBM-Core,SharedMediaAdditionalSounds
 ## Author: Dimentox
 ## Version: 7.3.7
-## OptionalDeps: 
+## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Movie Guy by Dimentox
 ## X-DBM-Voice-ShortName: MovieGuy
