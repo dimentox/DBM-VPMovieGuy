@@ -4,12 +4,12 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core,SharedMediaAdditionalSounds
 ## Author: Dimentox
-## Version: 7.3.7
+## Version: 8.0.1
 ## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Movie Guy by Dimentox
 ## X-DBM-Voice-ShortName: MovieGuy
-## X-DBM-Voice-Version: 6
+## X-DBM-Voice-Version: 8
 ## X-DBM-Voice-HasCount: 1
 
 embeds.xml
